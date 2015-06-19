@@ -2,10 +2,10 @@
 HW2 for COMP 412
 
 
-#####To find the relationship about the Rubbery and Park.
+#####To find the relationship about the Robbery and Park.
 
 
-People usually said that park is a good place for rubbery. 
+People usually said that park is a good place for robbery. 
 
 
 Here is:
