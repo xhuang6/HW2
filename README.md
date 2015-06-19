@@ -17,3 +17,12 @@ Here is:
 
 Use these data to test and verify the conclusion.
 
+==========================================================================
+###UPDATE
+
+This code can find out all the crimes which appeared near a Park.
+All the 374 results are in the file " HW2Result.txt".
+With the results, we can find that not too much robbery appeared in a park. Maybe it is because most of the park have surveillance cameras.
+However, it is not means the park is very safety.
+
+
